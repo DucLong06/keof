@@ -1,0 +1,13 @@
+{
+    "User": [
+        {
+            "id": 1,
+            "name": "Long",
+            "email": "hoangduclongg@gmail.com",
+            "id_telegram": "",
+            "stk": "longloe",
+            "bank": "techcombank"
+        }
+    ],
+    "Money": []
+}
