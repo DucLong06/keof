@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 class DataItem(BaseModel):
     id: int
-    money: int
+    gold: int
 
 
 class DataList(BaseModel):
